@@ -1,0 +1,10 @@
+
+@media (max-width: 400px) {
+    .mobileview{
+        flex-direction: column !important; 
+    }
+    .btnmobileview{
+        align-items: center;
+        justify-content: center;
+    }
+}
